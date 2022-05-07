@@ -1,6 +1,6 @@
 # AR-Treasure-Hunt
 Mini Project for AR-VR Elective Subject
-Marker Based Treasure Hunt Game Using Vuforia
+	Marker Based Treasure Hunt Game Using Vuforia
 
 	Download Final Apk 
 	Download Markers 
