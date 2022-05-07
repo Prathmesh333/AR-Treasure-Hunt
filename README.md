@@ -1,5 +1,5 @@
 # AR-Treasure-Hunt
-Mini Project for AR-VR Elective Subject
+	Mini Project for AR-VR Elective Subject
 	Marker Based Treasure Hunt Game Using Vuforia
 
 	Download Final Apk 
